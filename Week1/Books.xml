@@ -1,0 +1,31 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<library>
+    <technical>
+        <book1 isbn-13="978-0131774292" isbn-10="0131774298">
+            <title>Clean Code </title>
+            <publisher> Agile Handbook </publisher>
+            <author>R Martin </author>
+        </book1>
+        <book2 isbn-13="978-0131774291" isbn-10="0131774292">
+            <title>The Phenoix Project  </title>
+            <publisher> Pharma 2.4.0 </publisher>
+            <author> Dr Strange  </author>
+        </book2>
+
+    </technical>
+
+    <cookery>
+        <book3 isbn-13="978-0131774296" isbn-10="0131774290">
+            <title>Cupcakes </title>
+            <publisher> baking </publisher>
+            <author> Betty Crocker  </author>
+        </book3>
+        <book4 isbn-13="978-0131774294" isbn-10="0131774299">
+            <title> Soup  </title>
+            <publisher> Winter eats </publisher>
+            <author> Martha Swert  </author>
+        </book4>
+    </cookery>
+
+</library>

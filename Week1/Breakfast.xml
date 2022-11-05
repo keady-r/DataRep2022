@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<menu>
+    <title> BreakFast Menu at Dela </title>
+    <content>
+        <food> Eggs on Toast </food>
+        <price> 10 euro </price>
+        <cals> Cals don't count on a sunday </cals>
+        <des> Yummy </des>
+    </content>
+</menu>
