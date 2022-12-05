@@ -1,0 +1,26 @@
+
+API - Application program interface. Allow applications to send and take information from/to another application. 
+e.g. SOAP (old)
+
+Now adays use RESTFUL API
+- Representational State Transfer
+- RESTFUL APIs should be stateless and cacheable. 
+
+METHODS:
+- get
+- post
+- put
+- delete
+
+URLS follow the method. Parameters follow the URL. 
+
+STATELESS:
+- A REST Constraint 
+- Server should treat each request as a single, independent transaction 
+- no Client state shoudl be stored on the Server
+- Each request must contain all the info to perform teh request
+
+CACHABLE:
+- increase response time
+- tracable to client 
+

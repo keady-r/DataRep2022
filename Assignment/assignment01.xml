@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Library>
+	<Book category="Technical">
+		<ISBN>
+			1
+		</ISBN>
+		<Title>
+			The phenoix Project 
+		</Title>
+		<Author>
+			Joe Wicks
+		</Author>
+	</Book>
+    	<Book category="Technical">
+		<ISBN>
+			2
+		</ISBN>
+		<Title>
+			Clean Code 
+		</Title>
+		<Author>
+			Robert Martin
+		</Author>
+	</Book>
+	<Books category="Cookery">
+		<ISBN>
+			3
+		</ISBN>
+		<Title>
+			Scones for Tea 
+		</Title>
+		<Author>
+			Betty Crocker
+		</Author>
+	</Book>
+    	<Books category="Cookery">
+		<ISBN>
+			4
+		</ISBN>
+		<Title>
+			Quick Meals
+		</Title>
+		<Author>
+			Gordon Ramsey
+		</Author>
+	</Book>
+</Library>

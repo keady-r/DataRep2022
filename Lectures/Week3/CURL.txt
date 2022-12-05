@@ -1,0 +1,17 @@
+
+CURL _ client inside a URL
+used to call a url adn retrieve data 
+
+installtion :
+- curl.se
+
+-i see the response header
+-x <method> set the method
+-d <data> set the data
+-h <header> set the header
+
+e.g. create
+curl -h "content-type:application/json" -x post -d "{enter data}" url
+
+e.g. update
+curl -h "content-type:application/json" -x put -d "{enter data}" url

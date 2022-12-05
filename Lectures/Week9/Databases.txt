@@ -1,0 +1,26 @@
+
+Install MySQL for creating a database
+
+lookup and download WampServer
+C++ DLL might also need to be downloaded. 
+
+in the terminal click show database
+
+can also use phpmyadmin
+
+SQL - used to interact with the database
+
+COMMANDS:
+- Create database test;
+- use test
+- create table test (
+    id int NOT NULL AUTO_INCREMENT,
+    name varchar (250),
+    PRIMARY KEY (id
+);
+- insert into test (name) values ("jow");
+- select * from test;
+- update test set name = 'blah' where id = 1;
+- delete from test where value = 1;
+
+What is this lecture trying to tell me - how to set up a basic database. Further reading on w3 schools. 

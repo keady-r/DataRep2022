@@ -1,0 +1,31 @@
+Lecture 5.1. 
+
+Many reasons why user would want to restrict access to a source. 
+- privledged users to change code
+- sensitive data
+- limit 
+
+API keys is a common way to restrict access. 
+    - Don't put API keys on github. 
+    - Code scanning for this always. 
+    - Apply key from resouce holder.
+
+- Include API in the request 
+    - get request (old) not secure 
+    - or put in a header, get request auth: header. 
+
+- html to PDF. 
+
+- github is an API also 
+
+- OAuth 1 and OAuth 2 
+    - 2 legged : Resource owner of techy can 
+    - 3 legged 
+
+
+USING PACKAGES:
+- Packages can be used to interact with APIs
+- Look up python api modules
+- any-api.com (shows the APIS that are available )
+
+What is lecture 5.3. telling me : Look up packages with python to interact with an API. 

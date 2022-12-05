@@ -1,0 +1,11 @@
+
+uses pxstat
+multidimensional data
+
+Json files:
+- class 
+- dimensions
+- index
+- category 
+- values: Order of the values in last dimension first. 
+Need a for loop 
