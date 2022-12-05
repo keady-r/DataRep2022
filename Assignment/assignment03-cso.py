@@ -12,4 +12,4 @@ def getData():
 
 if __name__ == "__main__":
     with open ("cso.json", "wt") as fp:
-        print(getData(),file = fp)
+        print(json.dumps(getData()),file = fp)
