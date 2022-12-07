@@ -15,4 +15,4 @@ repoJSON = response.json()
 
 
 with open (filename, "w") as fp:
-    json.dumps(repoJSON, fp, indent=4)
+    json.dump(repoJSON, fp, indent=4)
