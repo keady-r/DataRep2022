@@ -5,7 +5,7 @@ Within this repository you will find src code written in python for:
 - Reading and Passing XMLs
 - Retrieving And Passing XML files 
 - Retrieving And Passing json files 
-- Generating Servers
+- Generating Web Applicatoins
 
 
 ## Requirements To Run This Project 
