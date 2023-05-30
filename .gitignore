@@ -1,0 +1,4 @@
+#Files to ignore
+
+venv 
+src/InteractingWithAPI/__pycache__
